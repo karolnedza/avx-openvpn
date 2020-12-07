@@ -4,6 +4,3 @@ variable "gw_name_vpn" {default = "Aviatrix-vpc-082267b20x129c8d52"}
 variable "profiles" {}
 variable "user_name_vpn" {}
 variable "ctrl_password" {}
-
-
-
