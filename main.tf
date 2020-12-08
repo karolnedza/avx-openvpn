@@ -10,7 +10,7 @@ resource "aviatrix_vpn_user" "vpn_user" {
 
 locals {email = "We've sent you an email with instructions on how to configure your VPN Client"}
 
-output local {
+output "completed" {
   value = local.email
 }
 
