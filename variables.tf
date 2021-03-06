@@ -5,3 +5,4 @@ variable "user_email_vpn" {}
 variable "user_name_vpn" {}
 variable "ctrl_password" {}
 variable "user_profile_vpn" {}
+variable "ctrl_ip" {}
